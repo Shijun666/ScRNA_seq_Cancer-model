@@ -1,2 +1,2 @@
-# ScRNA_seq_R
-## This project includes note files of scRNA-seq data analysis with R programming
+# ScRNA_seq
+## This project includes analysis of published scRNA-seq data, in different human cancer models
